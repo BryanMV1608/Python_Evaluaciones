@@ -1,0 +1,14 @@
+El tamaño de la lista es: 10
+Lista de número: 
+40
+21
+85
+35
+87
+47
+12
+76
+44
+98
+
+Las Raíces cuadradas de los números son: 
